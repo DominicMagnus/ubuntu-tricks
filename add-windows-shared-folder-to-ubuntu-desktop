@@ -1,0 +1,2 @@
+sudo mkdir -p /mnt/windows
+sudo mount -t cifs //192.168.1.100/shared /mnt/windows -o user=username,pass=password
