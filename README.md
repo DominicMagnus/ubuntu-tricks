@@ -1,0 +1,2 @@
+# ubuntu-tricks
+Ubuntu tricks
